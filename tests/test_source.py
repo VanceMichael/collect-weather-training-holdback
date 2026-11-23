@@ -9,7 +9,7 @@ from urllib.request import urlopen
 
 from source_server import make_server
 
-HERE = Path(__file__).resolve().parent
+HERE = Path(__file__).resolve().parents[1]
 
 
 class SourceTests(unittest.TestCase):

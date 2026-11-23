@@ -6,4 +6,4 @@
 
 使用 `python3 source_server.py` 启动，在浏览器打开 `http://127.0.0.1:8040/`。本地样本保存在 `origins/`，按资料方路径分开。
 
-运行 `python3 -m unittest -v` 检查资料站能实际提供可读取的原件。
+运行 `python3 -m unittest discover -s tests -v` 检查资料站能实际提供可读取的原件。
