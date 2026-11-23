@@ -1,0 +1,5 @@
+id,field,use,day,decision
+NX,*,train,1,allow
+NY,rain,verify,2,allow
+SX,rain,verify,3,allow
+SY,rain,train,3,allow

@@ -1,0 +1,16 @@
+{
+  "title": "气象样本的留出锁定与授权补采",
+  "sources": [
+    "/directory/north.json",
+    "/directory/shared.json",
+    "/licence/base.csv",
+    "/licence/amend.csv",
+    "/lab/request.json",
+    "/objects/nx.ndjson",
+    "/objects/ny.ndjson",
+    "/objects/sx.ndjson",
+    "/objects/sy.ndjson"
+  ],
+  "forms": [],
+  "range_sources": []
+}

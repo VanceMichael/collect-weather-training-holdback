@@ -1,0 +1,52 @@
+{
+  "holdout": {
+    "group": "RAIN9",
+    "station": "N",
+    "window": [
+      11,
+      14
+    ],
+    "field": "rain"
+  },
+  "requests": [
+    [
+      "G1",
+      "train",
+      [
+        "N",
+        "E"
+      ],
+      [
+        10,
+        16
+      ]
+    ],
+    [
+      "G2",
+      "verify",
+      [
+        "N"
+      ],
+      [
+        11,
+        14
+      ]
+    ]
+  ],
+  "prior_delivery": [
+    [
+      "G0",
+      "NX",
+      "r1",
+      1
+    ]
+  ],
+  "fields": {
+    "G1": [
+      "rain"
+    ],
+    "G2": [
+      "rain"
+    ]
+  }
+}

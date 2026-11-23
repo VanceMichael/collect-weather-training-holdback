@@ -1,0 +1,38 @@
+{
+  "objects": [
+    [
+      "SX",
+      "r1",
+      "RAIN9",
+      [
+        "N"
+      ],
+      [
+        11,
+        14
+      ],
+      true,
+      [
+        "rain"
+      ],
+      "/objects/sx.ndjson"
+    ],
+    [
+      "SY",
+      "r1",
+      "RAIN10",
+      [
+        "N"
+      ],
+      [
+        14,
+        16
+      ],
+      true,
+      [
+        "rain"
+      ],
+      "/objects/sy.ndjson"
+    ]
+  ]
+}
